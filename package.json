@@ -1,0 +1,16 @@
+{
+  "name": "notes-generator",
+  "version": "1.0.0",
+  "description": "This program accepts a JSON object and creates smaller JavaScript objects that conform to the structure used in our notes site. The generated objects are structured to be compatible with the Notes table and follow the specified rules for topics, tags, and content organisation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^13.0.0"
+  }
+}
