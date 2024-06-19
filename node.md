@@ -1,15 +1,5 @@
 # Node
 
-## Prior Knowledge
-
-- Just a vague awareness of how you've run your code in Pre-Course (`npm test`)
-
-## Learning Objectives
-
-- Understand a little of what Node offers in how JS is run.
-- Some differences between the Node REPL and running files/modules with node.
-- Some uses of npm, a package manager for node.
-
 ## What is NodeJS?
 
 NodeJS is a runtime environment for JavaScript. Essentially it's a program that allows our computer to run programs in JavaScript through the Command Line Interface (a.k.a. CLI or terminal).
